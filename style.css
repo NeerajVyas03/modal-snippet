@@ -92,6 +92,7 @@ p {
 
   .show-modal {
     width: 100%;
+    -webkit-tap-highlight-color: transparent;
   }
 
   .modal {
