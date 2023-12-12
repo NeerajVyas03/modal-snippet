@@ -99,7 +99,12 @@ p {
     padding: 4rem;
   }
 }
+/*updated*/
 
+.show-modal:focus,
+.show-modal:active {
+  outline: none;
+}
 /* Media Query for larger screens */
 @media only screen and (min-width: 1200px) {
   .show-modal {
